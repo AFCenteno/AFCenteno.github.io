@@ -28,7 +28,7 @@ span {
 }
 
 #Home {
-  position: relative;
+  position: absolute;
   text-align: center;
   padding-top: 5%;
   font-weight: 300;
