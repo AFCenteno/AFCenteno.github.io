@@ -27,6 +27,15 @@ span {
   letter-spacing: 10px;
 }
 
+#Home {
+  position: relative;
+  text-align: center;
+  padding-top: 5%;
+  font-weight: 300;
+  font-size: 30px;
+  letter-spacing: 10px;
+}
+
 #icons {
   position: absolute;
   top: 48%;
